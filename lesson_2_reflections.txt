@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A git ocult file was created. Know it that its a directory with  git.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	staging area work like a frmawork.
